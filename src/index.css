@@ -8,3 +8,12 @@
     -webkit-text-stroke-color: white;
   }
 }
+
+@font-face {
+  font-family: 'Audiowide';
+  src:url('./assets/fonts/Audiowide-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rubik Glitch';
+  src: url('./assets/fonts/RubikGlitch-Regular.ttf') format('truetype');
+}

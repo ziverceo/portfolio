@@ -11,7 +11,7 @@ const Hire = () => {
       };
     return (
     <div>
-        <button onClick={handleWhatsAppClick} class="button active:scale-90 ease-in-out duration-200">Hire Me</button>
+        <button onClick={handleWhatsAppClick} class="button h-8 md:h-12 text-xs md:text-lg font-audiowide w-32 md:w-56 active:scale-90 ease-in-out duration-300">Hire Me</button>
     </div>
   )
 }
